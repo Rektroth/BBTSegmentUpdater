@@ -1,0 +1,15 @@
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.csprojAssemblyReference.cache
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.Form1.resources
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.csproj.GenerateResource.cache
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.AssemblyInfoInputs.cache
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.AssemblyInfo.cs
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.exe
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.deps.json
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.runtimeconfig.json
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.runtimeconfig.dev.json
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.dll
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\bin\Debug\netcoreapp3.1\BBTSegmentUpdater.pdb
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.dll
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.pdb
+C:\Users\Rektroth\source\repos\BBTSegmentUpdater\BBTSegmentUpdater\obj\Debug\netcoreapp3.1\BBTSegmentUpdater.genruntimeconfig.cache
